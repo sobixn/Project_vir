@@ -1,0 +1,11 @@
+name: pvDonation
+version: '1.21.1-R0.1-SNAPSHOT'
+main: io.github.sobixn.project_vir.ProjectVirPlugin
+api-version: '1.21'
+authors: [ Sobixn, GodLight_Dev ]
+description: Project Vir의 후원 플러그인입니다.
+website: https://github.com/ykrun/Project_vir
+commands:
+  dontation:
+    aliases:
+      - 후원등록
